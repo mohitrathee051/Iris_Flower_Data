@@ -95,7 +95,8 @@ Then open: [http://localhost:7860](http://localhost:7860)
 ## 🌸 Gradio App Preview
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/12284569/191813729-e8e6ee70-62c4-48a6-9a92-fb5ea3b14d9e.gif" width="600"/>
+  <img src="![image](https://github.com/user-attachments/assets/a664cad8-997b-4ae0-8170-0a65e8c69b47)
+" width="600"/>
 </p>
 
 > Move the sliders → Predict the flower → Get an image + species label
